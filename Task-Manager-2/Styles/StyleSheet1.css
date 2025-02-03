@@ -1,0 +1,37 @@
+﻿body {
+    background: gray;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Task Manager */
+.task-manager {
+    background: darkgrey;
+    width: 500px;
+    height: 600px;
+    position: relative;
+}
+
+/* Top Bar */
+.sun {
+    margin-right: 11px;
+}
+
+/* Contents */
+.contents {
+    margin-top: 85px;
+    height: 350px;
+    border: 2px solid;
+    border-color: white;
+}
+
+/* Input */
+.input-div {
+    position: absolute;
+    bottom: 0;
+}
