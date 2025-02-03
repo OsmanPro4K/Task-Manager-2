@@ -59,6 +59,7 @@
                     <asp:LinkButton ID="AddTaskBtn" runat="server" CssClass="btn btn-success rounded-3 rounded-start-0" OnClick="AddTask">
                         <i class="fa-solid fa-check"></i>
                     </asp:LinkButton>
+
                 </div>
             </div>
         </div>
